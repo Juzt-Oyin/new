@@ -1,0 +1,62 @@
+body {
+    background-color: #edededdd;
+    padding:0px;
+    margin:0px;
+}
+
+ h1 {
+    font: bold;
+    font-family : Klavika;
+    font-size: 90px;
+    color:#4077ff;
+    width: 50%;
+    font-size: 14px;
+    margin-top:300px;  
+    margin-bottom: 0;
+    padding: 0px;
+    text-indent:1cm;
+}
+
+.branding p {
+    padding-top:0px;
+    text-indent:1cm;
+    width: 50%;
+    font-size:25px;
+    padding: 0px;
+    line-height:0.2;
+}
+
+h1 {
+    font: bold;
+    font-family : Klavika;
+    font-size: 90px;
+    color:#4077ff;
+    padding: 0%;
+}
+
+.white {
+    background-color: green;
+}
+
+form {
+    margin-top:-2px;
+    background-color:#ffffff;
+    border-radius: 10px;
+    border-style: outset;
+    border-width:px;
+    padding :100px; 
+    width:180px;  
+    
+}
+
+
+
+
+
+footer {
+    position: absolute;
+    bottom: 18cm;
+    background-color:white;
+    font-size:15px;
+    width: 100%;
+}
